@@ -141,5 +141,6 @@
   "DFIntDebugDefaultTargetWorldStepsPerFrame": "1000",
   "DFIntS2PhysicsSenderRate": "250",
   "FIntTaskSchedulerAutoThreadLimit": "8",
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
   "FIntFontSizePadding": "3"
 }
